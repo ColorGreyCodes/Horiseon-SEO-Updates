@@ -1,4 +1,4 @@
-# Horiseon-SEO-Updates
+## Horiseon-SEO-Updates
 
 Hello! Thank you for taking the time to read my README. Horiseon is a marketing agency who needed some updates to the SEO. 
 
