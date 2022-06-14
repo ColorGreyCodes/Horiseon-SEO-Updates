@@ -12,7 +12,7 @@ Cleaned up/consolidated duplicate CSS
 Added alt tags to images.
 Added title element name "Horiseon" for homepage tab.
 
-##Links
+## Links
 The following is a screenshot of the website up and running: https://github.com/ColorGreyCodes/Horiseon-SEO-Updates/blob/main/screenshot-of-working-site.png
 
 The following is a link to website: https://colorgreycodes.github.io/Horiseon-SEO-Updates/
