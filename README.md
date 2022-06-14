@@ -13,9 +13,8 @@ Added alt tags to images.
 Added title element name "Horiseon" for homepage tab.
 
 ## Website
-
+```
 https://colorgreycodes.github.io/Horiseon-SEO-Updates/
 
-## Links
-The following is a screenshot of the website up and running: https://github.com/ColorGreyCodes/Horiseon-SEO-Updates/blob/main/screenshot-of-working-site.png
-
+## Screenshot of Working Site
+![](Horiseon-working-screenshot.png) 
